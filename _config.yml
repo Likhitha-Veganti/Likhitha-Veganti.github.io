@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Likhitha Veganti"
-  avatar           : "pic.png"
+  avatar           : #"pic.png"
   bio              : "Data Science Student at Seattle University"
   location         : "Seattle, WA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/likhitha-veganti/"
+  linkedin         : "likhitha-veganti/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
