@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 - Email: likhithaveganti21@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/likhitha-veganti/))
+- [LinkedIn](https://www.linkedin.com/in/likhitha-veganti/)
 - [GitHub](https://github.com/likhithaveganti)
 
 I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights,leveraging tools such as Python, R, SQL, and more.
