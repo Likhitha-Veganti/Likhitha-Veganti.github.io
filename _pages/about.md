@@ -10,4 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome! I am a data scientist with 4 years of experience in building and deploying ML models and data engineering/ETL pipelines using various tools and technologies such as Python, SQL, and cloud platforms. Prior to pursuing my Master's Degree at Seattle University, I worked as a Data Consultant at Syniti and a Data Engineer at Wipro Technologies in India. My expertise lies in implementing data-driven solutions to real-world business problems using statistical analysis, data visualization, and data management techniques.
+Welcome to my Portfolio!
+
+I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights. As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering, I've actively contributed to the academic community.
+I invite you to explore my projects and connect with me for exciting collaborations in the world of data science! Let's turn data into actionable insights together! 📊🚀 #DataScience #MachineLearning #DataAnalysis
