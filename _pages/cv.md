@@ -8,7 +8,7 @@ redirect_from:
 ---
 - Email: likhithaveganti21@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/likhitha-veganti/)
-- [GitHub](https://github.com/likhithaveganti)
+- [GitHub](https://github.com/Likhitha-Veganti)
 
 I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights,leveraging tools such as Python, R, SQL, and more.
 As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering, I've actively contributed to the academic community.
@@ -50,6 +50,6 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 
 ## Portfolio
 I invite you to explore my projects and connect with me for exciting collaborations in the world of data science! Let's turn data into actionable insights together! 📊🚀 #DataScience #MachineLearning #DataAnalysis
-- Link to my: [Portfolio](https://likhithaveganti.github.io/portfolio/)
+- Link to my: [Portfolio](https://Likhitha-Veganti.github.io/portfolio/)
 
 
