@@ -36,9 +36,12 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 
 
 ## TECHNICAL EXPERTISE:
-**Programming:** Python, SQL, R
-**Tools:** Visual Studio, R Studio, SQL Workbench (MySQL), AWS (Hadoop, Spark), Tableau, Power BI.
-**Data Science Technologies:** Exploratory Data Analysis, Machine Learning, Data Visualization, Product Management, Data Interpretation, RDBMS, NumPy, Pandas, Altair, Matplotlib, Scikit-learn, TensorFlow.
+**Programming:** 
+  - Python, SQL, R
+**Tools:**
+  - Visual Studio, R Studio, SQL Workbench (MySQL), AWS (Hadoop, Spark), Tableau, Power BI.
+**Data Science Technologies:**
+  - Exploratory Data Analysis, Machine Learning, Data Visualization, Product Management, Data Interpretation, RDBMS, NumPy, Pandas, Altair, Matplotlib, Scikit-learn, TensorFlow.
 
 
 ## Portfolio
