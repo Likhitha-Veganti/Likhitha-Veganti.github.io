@@ -1,62 +1,55 @@
 ---
 layout: archive
-title: "Akanksha Sharma"
+title: "Likhitha Veganti"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-- Email: akankshasharmadid@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/akanksha-12831bb1/)
-- [GitHub](https://github.com/akankshasharmadid)
+- Email: likhithaveganti21@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/likhitha-veganti/))
+- [GitHub](https://github.com/likhithaveganti)
 
-
-Data Scientist with 4 years of experience in building and deploying ML models and data engineering/ETL pipelines with various tools and technologies, including Python, SQL, and cloud platforms. Proficient in implementing data-driven solutions to real-world business problems using Statistical analysis, Data visualization, and Data management.
-
-## EXPERIENCE
-
-### Gearsim – Data Science Intern
-July 2023 – September 2023
-
-- Developed a Flask-based app for generating data profiling reports by uploading CSV files, reducing report generation time by 80%.
-- Conducted hypothesis testing on United Airlines' Flight Delay dataset, resulting in a 15% reduction in flight delay prediction error.
-- Created a predictive model for landing gear force on airplane legs during landings, achieving an R-squared value of 0.85.
-- Developed a Streamlit-based frontend application for real-time predictions, improving operational efficiency by 20%.
-
-### Syniti – Senior Data Consultant
-January 2020 – August 2022
-
-- Developed an automated SQL Query Generator using Python, eliminating the dependency on the BI team for data analyses/reporting requirements, saving at least 1.25 BI headcount per year.
-- Implemented a real-time support ticket routing system using Logistic Regression and Decision Trees, reducing response time by 95% (from 20 to 1 min/ticket) with 98% accuracy of ticket classification based on severity.
-- Owned and led new hire technical training and demo project mentoring. Trained 40+ new hires in a span of six months.
-
-### Wipro – Data Engineer
-July 2018 – January 2020
-
-- Led the data migration from Mainframe to HANA by creating structured de-normalized ERP (Enterprise Resource Planning) datasets, reducing manual effort by 93% (from 12 to 1 HC/year).
-- Automated data cleaning, validation, and data quality checks during data migration using Regex, Dedup, and Pandas, decreasing the processing time by 97% (from 100 to 4 hrs) for each data migration cycle, consisting of at least 1B+ data records.
-- Developed executive-level project status Tableau dashboards for milestone status, blockers/risks, and call to action focus areas.
-
-### Grozip - Intern
-December 2016 – January 2017
-
-- Designed and launched a chatbot on the Facebook Messenger platform for real-time customer support and product search functionality, improving referral traffic by 54%.
-- Led the redesign of data lake architecture for a new web application during migration, using an Entity-Relationship (ER) diagram resulting in efficient data retrieval and reduced deduplication by 75%.
-- Designed a targeted campaign framework, using Google Analytics, to identify focus regions based on website traffic and user behavior for sales and marketing teams, increasing revenue-per-sale by 60%.
-
-## Portfolio
-
-- Link to my: [Portfolio](https://akankshasharmadid.github.io/portfolio/)
+I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights,leveraging tools such as Python, R, SQL, and more.
+As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering, I've actively contributed to the academic community.
 
 
 ## EDUCATION
 
-- **Seattle University**
-  - *MS in Data Science* (September 2022 – Present)
-  - CGPA: 3.93/4 (2x Dean’s Honor List)
-  - Relevant Coursework: Statistical Inference, A/B Testing, Data Visualization, Text Processing, Big Data & Analytics.
+**MS in Data Science** (Anticipated Summer 2024)  
+  - *Seattle University*
+  - CGPA: 3.97/4 (3x Dean’s Honor List)
+  - Relevant Coursework: Programming for Data Science (Python), Statistical Machine Learning, Database Management Systems, Big Data Analytics, Data Visualization, Numerical Methods for Machine Learning, Web Analytics, AI for Business.
+  - Noteworthy Achievements: Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering and Graduate Representative for Open Education Task Force.
 
-- **VIT University**
-  - *B.Tech - Computer Science and Engineering* (2014-2018)
-  - CGPA: 8.90/10
-  - Relevant Coursework: Cloud Computing, Software Engineering, Data Structures & Algorithms, Algorithm Design, Agent-based intelligent systems.
+**B.Tech - Computer Science and Engineering** (2018 - 2022)
+  - *Jawaharlal Nehru Technological University Hyderabad*
+  - Relevant Coursework: Data Structures & Algorithms, Software Engineering, Algorithm Design, Machine Learning.
+  - Noteworthy Achievements: CSI Member, Lead Organizer of QBIT (CSE Departmental Fest), Conducted Research on Data Augmentation for Retinal Image Segmentation, Jnanabhumi Scholarship Recipient.
+
+
+## EXPERIENCE
+
+**Data Science Intern - Brane Services Private Limited** (11/2021 – 04/2022)
+  - Part of developing a solution called ‘NslHub’, a platform to create business applications without writing code. 
+  - Spearheaded automation solutions to streamline processes, enhancing operational efficiency.
+  - Leveraged Machine learning techniques to create personalized user experiences, recommending relevant features and functionalities based on user preferences resulting in 30% improvement of user satisfaction ratings.
+  - Communicated the value of machine learning technology to non-technical stakeholders, leading to adoption of machine learning solutions and contributing to a 15% increase in overall process efficiency.
+
+**Machine Learning Intern - Indian Servers Private Limited** (05/2021 – 07/2021)
+  - Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making.
+  - Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
+
+
+## TECHNICAL EXPERTISE:
+
+**Programming:** Python, SQL, R
+**Tools:** Visual Studio, R Studio, SQL Workbench (MySQL), AWS (Hadoop, Spark), Tableau, Power BI.
+**Data Science Technologies:** Exploratory Data Analysis, Machine Learning, Data Visualization, Product Management, Data Interpretation, RDBMS, NumPy, Pandas, Altair, Matplotlib, Scikit-learn, TensorFlow.
+
+
+## Portfolio
+I invite you to explore my projects and connect with me for exciting collaborations in the world of data science! Let's turn data into actionable insights together! 📊🚀 #DataScience #MachineLearning #DataAnalysis
+- Link to my: [Portfolio](https://likhithaveganti.github.io/portfolio/)
+
+
