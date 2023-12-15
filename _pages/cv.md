@@ -19,6 +19,7 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
   - CGPA: 3.97/4 (3x Dean’s Honor List)
   - Relevant Coursework: Programming for Data Science (Python), Statistical Machine Learning, Database Management Systems, Big Data Analytics, Data Visualization, Numerical Methods for Machine Learning, Web Analytics, AI for Business.
   - Noteworthy Achievements: Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering and Graduate Representative for Open Education Task Force.
+
 **B.Tech - Computer Science and Engineering** (2018 - 2022)
   - *Jawaharlal Nehru Technological University Hyderabad*
   - Relevant Coursework: Data Structures & Algorithms, Software Engineering, Algorithm Design, Machine Learning.
@@ -30,6 +31,7 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
   - Spearheaded automation solutions to streamline processes, enhancing operational efficiency.
   - Leveraged Machine learning techniques to create personalized user experiences, recommending relevant features and functionalities based on user preferences resulting in 30% improvement of user satisfaction ratings.
   - Communicated the value of machine learning technology to non-technical stakeholders, leading to adoption of machine learning solutions and contributing to a 15% increase in overall process efficiency.
+
 **Machine Learning Intern - Indian Servers Private Limited** (05/2021 – 07/2021)
   - Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making.
   - Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
@@ -38,8 +40,10 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 ## TECHNICAL EXPERTISE:
 **Programming:** 
   - Python, SQL, R
+    
 **Tools:**
   - Visual Studio, R Studio, SQL Workbench (MySQL), AWS (Hadoop, Spark), Tableau, Power BI.
+    
 **Data Science Technologies:**
   - Exploratory Data Analysis, Machine Learning, Data Visualization, Product Management, Data Interpretation, RDBMS, NumPy, Pandas, Altair, Matplotlib, Scikit-learn, TensorFlow.
 
