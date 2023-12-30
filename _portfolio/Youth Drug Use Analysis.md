@@ -84,7 +84,9 @@ According to the table provided, the decision tree model has the highest MSE of 
 
 #### Random Forest Results:
 <img width="360" alt="image" src="https://github.com/Likhitha-Veganti/Likhitha-Veganti.github.io/assets/51111766/3a540b37-8463-4bbc-98f7-2f12aa1f21f5">
+
 <img width="467" alt="image" src="https://github.com/Likhitha-Veganti/Likhitha-Veganti.github.io/assets/51111766/aa6bf9ab-bf61-498a-884d-c34f17cd3356">
+
 <img width="428" alt="image" src="https://github.com/Likhitha-Veganti/Likhitha-Veganti.github.io/assets/51111766/2af81726-286e-448d-a183-e5245403c86c">
 
 This suggests that the grade or year of school that a respondent is currently attending or will attend after vacation is the most important predictor of the age of first alcohol use. We can see age of first alcohol use increases with increase in EDUSCHGRD2. The other top features include "HEALTH2" with an importance score of 0.029098 which describes the overall health record. We can see if the HEALTH2 is poor, the age of alcohol use is very less. Maybe the  health is affected by drinking alcohol from an early age. And also, age of alcohol use slightly increases with increase in Income.
