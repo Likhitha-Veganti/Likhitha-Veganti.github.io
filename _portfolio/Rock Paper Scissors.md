@@ -1,5 +1,5 @@
 ---
-title: "Rock, Paper, Scissors Game"
+title: "Rock, Paper, Scissors Game (A Simple Python Task)"
 excerpt: "This Python program is designed to play the classic game of Rock, Paper, Scissors with the user. The game allows the user to specify the number of rounds to be played, and in each round, the player and the computer make their selections. The winner of each round is determined based on the traditional rules: Rock smashes scissors, Paper covers rock, and Scissors cut paper."
 ---
 
