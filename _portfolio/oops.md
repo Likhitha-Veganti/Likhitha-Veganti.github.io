@@ -1,5 +1,5 @@
 ---
-title: "DiverseLifestyles(Simple Python OOPS Task)"
+title: "DiverseLifestyles(A Simple Python OOPS Task)"
 excerpt: "This Python program demonstrates the principles of Object-Oriented Programming (OOP) by implementing classes for Human, Hiker, Scientist, Swimmer, and ScientificSwimmer. The classes showcase the concepts of inheritance, encapsulation, and polymorphism."
 ---
 
