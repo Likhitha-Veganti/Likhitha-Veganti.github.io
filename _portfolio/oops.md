@@ -1,6 +1,7 @@
 ---
 title: "DiverseLifestyles(Python OOPS)"
 excerpt: "This Python program demonstrates the principles of Object-Oriented Programming (OOP) by implementing classes for Human, Hiker, Scientist, Swimmer, and ScientificSwimmer. The classes showcase the concepts of inheritance, encapsulation, and polymorphism."
+---
 
 Link to my GitHub Repository [Github Code](https://github.com/Likhitha-Veganti/Python/tree/main/OOPS%20Task).
 
