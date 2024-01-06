@@ -1,5 +1,5 @@
 ---
-title: "NYC Flights Departure Delays Analysis for United Airlines (R Project)"
+title: "Departure Delays Analysis for United Airlines (R Project)"
 excerpt: "This project focuses on analyzing departure delays specifically for United Airlines (carrier code UA) using data from the nycflights13 package. The objective is to understand the relationship between departure delays and various factors, including time of day, time of year, temperature, wind speed, precipitation, and visibility, specifically for UA flights."
 ---
 
