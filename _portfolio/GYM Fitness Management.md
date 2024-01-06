@@ -1,5 +1,5 @@
 ---
-title: "GYM FITNESS MANAGEMENT SYSTEM (SQL)"
+title: "GYM Fitness Management System (SQL)"
 excerpt: "The goal of this study is to provide a simple and affordable gui application for boutique gym and health club startups."
 ---
 
