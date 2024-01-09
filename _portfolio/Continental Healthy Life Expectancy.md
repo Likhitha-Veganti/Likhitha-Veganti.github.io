@@ -42,7 +42,7 @@ Plot 3 delves deeper into the complex relationship between two pivotal factors, 
 The visualization elegantly conveys the stark differences in life expectancy, presents trends over time, and explores the intricate relationship between socio-economic factors and well-being. These disparities are humanized, making it clear why few continents are consistently outperformed by others (for example, Europe over Africa), shedding light on a vital aspect of global happiness and well-being.
 
 
-<iframe src="/files/life_expectancy_dashboard.html" width="1000" height="1000" frameborder="0"></iframe>
+<iframe src="/files/life_expectancy_dashboard.html" width="1000" height="900" frameborder="0"></iframe>
 
 <h2>Description:</h2>
 <p text-align: justify>
