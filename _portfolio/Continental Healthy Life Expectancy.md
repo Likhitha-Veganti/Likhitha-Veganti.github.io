@@ -10,16 +10,16 @@ The World Happiness Report is a comprehensive survey that assesses the state of 
 
 The dataset includes several key variables such as:
 
-Overall rank: Overall rank of each country or region.<br>
-country or region: Country or Region of the world.<br>
-Continent: Continent of the country.<br>
-Score: The happiness score measured for that country or region.<br>
-GDP per capita of that country.<br>
-Social support provided in that country.<br>
-Healthy life expectancy of that country.<br>
-Freedom to make life choices in that country.<br>
-Generosity values of that country.<br>
-Perceptions of corruption in that country.<br>
+- Overall rank: Overall rank of each country or region.<br>
+- country or region: Country or Region of the world.<br>
+- Continent: Continent of the country.<br>
+- Score: The happiness score measured for that country or region.<br>
+- GDP per capita of that country.<br>
+- Social support provided in that country.<br>
+- Healthy life expectancy of that country.<br>
+- Freedom to make life choices in that country.<br>
+- Generosity values of that country.<br>
+- Perceptions of corruption in that country.<br>
 
 The investigation in this analysis involves healthy life expectancy of various continents and possible factors that are influencing the life expectancy.
 
@@ -41,12 +41,14 @@ Plot 3 delves deeper into the complex relationship between two pivotal factors, 
 
 The visualization elegantly conveys the stark differences in life expectancy, presents trends over time, and explores the intricate relationship between socio-economic factors and well-being. These disparities are humanized, making it clear why few continents are consistently outperformed by others (for example, Europe over Africa), shedding light on a vital aspect of global happiness and well-being.
 
-<iframe src="/files/life_expectancy_dashboard.html" width="1000" height="700" frameborder="0"></iframe>
 
+<iframe src="/files/life_expectancy_dashboard.html" width="1000" height="1000" frameborder="0"></iframe>
 
-# Description:
-The basic encodings used in this analysis are effective in conveying insights about healthy life expectancy across various continents. In Plot 1, a bar chart is employed to showcase the distribution of healthy life expectancy values, making it easy for viewers to understand the frequency of this important variable. As healthy life expectancy is a quantiative variable, the psoition encoding is best to understand the distribution of that variable. The neutral light grey color for the bars allows the key data points to stand out, and the addition of vertical lines for the overall average and continent-specific average, along with text labels, facilitates comparisons. 
-In Plot 2, a line chart is used to visualize the average life expectancy over a five-year period for different continents. This allows viewers to discern trends and variations in life expectancy over time, with a clear reference point provided by the overall average line. Years can be seen as temporal or ordinal data and average life expectancy is quantitative data providing (position,position) is best encoding for that. Highlighting continent which is nominal data with a color is most reliable encoding. 
-Finally, Plot 3 employs scatter plots and regression lines to explore the relationship between GDP per capita(quantitative), social support(quantitative), and healthy life expectancy(quantitative), offering a side-by-side comparison of these factors. The use of color encoding for selected data points as continent is a nominal data and regression lines effectively highlights this relationship.
-
+<h2>Description:</h2>
+<p text-align: justify>
+The basic encodings used in this analysis are effective in conveying insights about healthy life expectancy across various continents. In Plot 1, a bar chart is employed to showcase the distribution of healthy life expectancy values, making it easy for viewers to understand the frequency of this important variable. As healthy life expectancy is a quantiative variable, the psoition encoding is best to understand the distribution of that variable. The neutral light grey color for the bars allows the key data points to stand out, and the addition of vertical lines for the overall average and continent-specific average, along with text labels, facilitates comparisons. <br></br>
+In Plot 2, a line chart is used to visualize the average life expectancy over a five-year period for different continents. This allows viewers to discern trends and variations in life expectancy over time, with a clear reference point provided by the overall average line. Years can be seen as temporal or ordinal data and average life expectancy is quantitative data providing (position,position) is best encoding for that. Highlighting continent which is nominal data with a color is most reliable encoding. <br></br>
+Finally, Plot 3 employs scatter plots and regression lines to explore the relationship between GDP per capita (quantitative), social support (quantitative), and healthy life expectancy (quantitative), offering a side-by-side comparison of these factors. The use of color encoding for selected data points as continent is a nominal data and regression lines effectively highlights this relationship.<br></br>
+<br></br>
 The interaction specifically enhances the plot by allowing users to select a continent of interest, thus personalizing the visualization experience. The selection of a continent in Plot 1 and Plot 2 results in the accentuation of the continent's average life expectancy, making it easier for viewers to compare and contrast different regions. This interaction enhances engagement and the user's ability to extract insights from the data. Additionally, the consistent color encoding for the selected continent throughout the plots maintains a clear visual connection, helping users relate the data across different visualizations. Overall, the choice of interaction adds an element of interactivity and customization to the analysis, making it more informative and engaging for the audience.
+</p>
