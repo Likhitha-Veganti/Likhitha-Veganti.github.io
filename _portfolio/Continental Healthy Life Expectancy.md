@@ -42,7 +42,7 @@ Plot 3 delves deeper into the complex relationship between two pivotal factors, 
 The visualization elegantly conveys the stark differences in life expectancy, presents trends over time, and explores the intricate relationship between socio-economic factors and well-being. These disparities are humanized, making it clear why few continents are consistently outperformed by others (for example, Europe over Africa), shedding light on a vital aspect of global happiness and well-being.
 
 
-<iframe src="/files/life_expectancy_dashboard.html" width="1000" height="900" frameborder="0"></iframe>
+<iframe src="/files/life_expectancy_dashboard.html" width="1000" height="930" frameborder="0"></iframe>
 
 ## Description:
 The basic encodings used in this analysis are effective in conveying insights about healthy life expectancy across various continents. In Plot 1, a bar chart is employed to showcase the distribution of healthy life expectancy values, making it easy for viewers to understand the frequency of this important variable. As healthy life expectancy is a quantiative variable, the psoition encoding is best to understand the distribution of that variable. The neutral light grey color for the bars allows the key data points to stand out, and the addition of vertical lines for the overall average and continent-specific average, along with text labels, facilitates comparisons.
