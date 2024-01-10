@@ -1,5 +1,5 @@
 ---
-title: "Healthy Life Expectancy Analysis Across Various Continents"
+title: "Healthy Life Expectancy Dashboard Across Various Continents"
 excerpt: "This project analyzes Healthy Life Expectancy across continents using the World Happiness Report datasets from 2015 to 2019. Through sophisticated data visualizations, it reveals trends and disparities in global well-being, focusing on the impact of factors like GDP, social support, and freedom on health outcomes. This comprehensive analysis provides valuable insights into the varying conditions of happiness and health around the world."
 ---
 Link to my GitHub Repository [Github Code](https://github.com/Likhitha-Veganti/data-science-projects/tree/main/Healthy%20Life%20Expectancy%20Data%20Visualizations).
