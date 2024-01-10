@@ -1,6 +1,6 @@
 ---
-title: "Global YouTube Statistics Analysis using Data Visualizations"
-excerpt: "The project involves an analysis of the "Global YouTube Statistics 2023" dataset, where I conducted comprehensive data visualizations to explore trends in YouTube channel growth, content genres, geographic distribution, and monetization aspects. The visualizations aid in understanding subscriber dynamics, viewer engagement, and the platform's cultural influence."
+title: "Global YouTube Statistics Analysis Using Data Visualizations"
+excerpt: "The project involves an analysis of the 'Global YouTube Statistics 2023' dataset, where I conducted comprehensive data visualizations to explore trends in YouTube channel growth, content genres, geographic distribution, and monetization aspects. The visualizations aid in understanding subscriber dynamics, viewer engagement, and the platform's cultural influence."
 ---
 Link to my GitHub Repository [Github Code](https://github.com/Likhitha-Veganti/data-science-projects/tree/main/YouTube%20Statistics%20Analysis).
 
