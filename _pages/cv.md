@@ -10,7 +10,7 @@ redirect_from:
 - [LinkedIn](https://www.linkedin.com/in/likhitha-veganti/)
 - [GitHub](https://github.com/Likhitha-Veganti)
 
-I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights,leveraging tools such as Python, R, SQL, and more.
+I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights, leveraging tools such as Python, R, SQL, and more.
 As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering, I've actively contributed to the academic community.
 
 ## EDUCATION
