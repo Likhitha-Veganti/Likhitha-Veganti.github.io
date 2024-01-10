@@ -61,7 +61,7 @@ This bar chart highlights the top 10 countries with prolific content creation on
 This faceted bar chart compares prevalent YouTube channel types across the United States, India, and Brazil. Each bar represents the number of channels within a specific genre, emphasizing content preferences in these top content-producing countries. Entertainment dominates in all three, followed closely by Music, indicating a universal appeal. Unique trends emerge, with Gaming influential in the U.S., a mix of Gaming and People in Brazil, and a focus on Education in India. This nuanced understanding provides valuable insights for content creators and marketers to tailor strategies to regional demands. The chart highlights YouTube's diverse impact on global content consumption trends, serving not just as an entertainment platform but also as a medium for education and community building.
 
 6. **Top YouTuber in Top Countries with Highest Number of Channels**
-<iframe src="/files/top_youtube_channels.html" width="1000" height="930" frameborder="0"></iframe>
+![image](https://github.com/Likhitha-Veganti/Likhitha-Veganti.github.io/assets/51111766/9f0d8e39-8db1-40e9-bd64-a126bb57a2d0)
 
 This map visually represents the global reach of YouTube by pinpointing the locations of the most subscribed YouTubers from the top countries with the highest channel count. Red star icons mark the dominance of these top content creators, with labeled names and countries, offering a snapshot of the international influence and diversity within the YouTube community. The presence of stars in countries like the United States, India, and Brazil highlights the platform's penetration into diverse markets and underscores its role in fostering international content creators. This map not only serves the investigation's objectives of examining geographic distribution but also prompts a broader discussion on the impact of concentrated influence, cross-cultural exchange, and the potential for individual YouTubers to shape international trends and dialogues.
 
@@ -96,7 +96,6 @@ This bar chart shows the maximum yearly earnings potential for YouTube channel t
 
 12. **Yearly Earnings Comparison Across Dominant Countries**
 ![image](https://github.com/Likhitha-Veganti/Likhitha-Veganti.github.io/assets/51111766/8ee8732f-28a5-4180-b976-94ddbeafc89e)
-
 This grouped bar chart compares the maximum yearly earnings for YouTube channel types in the United States, India, and Brazil. In the United States, 'Entertainment' channels lead in earnings, while 'Education' channels take the lead in India, reflecting the high demand for educational content. In Brazil, 'Music' channels stand out, suggesting a cultural preference for music-related content. The chart highlights the influence of geographical and cultural factors on the earning potential of YouTube channels, emphasizing the need for creators to tailor their content strategies based on regional consumption patterns for optimal revenue generation.
 
 **Figures 11 and 12 succinctly depict YouTube channel earnings. Figure 11 reveals 'People' channels as top earners, while Figure 12 compares earnings across the U.S., India, and Brazil, showcasing genre preferences. These insights underscore the importance of tailoring content strategies to both global and regional trends for effective revenue generation.**
