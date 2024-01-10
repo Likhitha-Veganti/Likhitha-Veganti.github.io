@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_8e8a41c8e61991fd32ccfa90098b0bf0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_8e8a41c8e61991fd32ccfa90098b0bf0" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_8e8a41c8e61991fd32ccfa90098b0bf0 = L.map(
+                "map_8e8a41c8e61991fd32ccfa90098b0bf0",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_53079a373defd15abd918d3c5194b5db = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var marker_4574b95c80827767b87c9dfc7883e28d = L.marker(
+                [-14.235004, -51.92528],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_fb7baf3fa5b1f74189e6a3149e343503 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4574b95c80827767b87c9dfc7883e28d.setIcon(icon_fb7baf3fa5b1f74189e6a3149e343503);
+        
+    
+        var popup_fa78be16cb42b507eab015b524db0974 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e9cfbda4bfdfb260bbc22c4b8feeb700 = $(`<div id="html_e9cfbda4bfdfb260bbc22c4b8feeb700" style="width: 100.0%; height: 100.0%;">Canal KondZilla from Brazil</div>`)[0];
+                popup_fa78be16cb42b507eab015b524db0974.setContent(html_e9cfbda4bfdfb260bbc22c4b8feeb700);
+            
+        
+
+        marker_4574b95c80827767b87c9dfc7883e28d.bindPopup(popup_fa78be16cb42b507eab015b524db0974)
+        ;
+
+        
+    
+    
+            var marker_32cc990a5d12ce32e0754a1d5f4675f7 = L.marker(
+                [-14.235004, -51.92528],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_a27b13e6077fb4ce329e2169b0b8554b = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eCanal KondZilla\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_32cc990a5d12ce32e0754a1d5f4675f7.setIcon(div_icon_a27b13e6077fb4ce329e2169b0b8554b);
+        
+    
+            var marker_ea708794c934ec8284e85d80b3388c8a = L.marker(
+                [20.593684, 78.96288],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_35fdecea73d8e27a9cd1ec7b7f2346eb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_ea708794c934ec8284e85d80b3388c8a.setIcon(icon_35fdecea73d8e27a9cd1ec7b7f2346eb);
+        
+    
+        var popup_bae0332fca4ee9d93c89d5326b29fca9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e7bf7dda331a6708edea62999fd4e54a = $(`<div id="html_e7bf7dda331a6708edea62999fd4e54a" style="width: 100.0%; height: 100.0%;">T-Series from India</div>`)[0];
+                popup_bae0332fca4ee9d93c89d5326b29fca9.setContent(html_e7bf7dda331a6708edea62999fd4e54a);
+            
+        
+
+        marker_ea708794c934ec8284e85d80b3388c8a.bindPopup(popup_bae0332fca4ee9d93c89d5326b29fca9)
+        ;
+
+        
+    
+    
+            var marker_2bf35fc34ceee85b401367df55025be4 = L.marker(
+                [20.593684, 78.96288],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_cb1b4f78667662bc856644428f6338bc = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eT-Series\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_2bf35fc34ceee85b401367df55025be4.setIcon(div_icon_cb1b4f78667662bc856644428f6338bc);
+        
+    
+            var marker_2e27a64f335e87372c479df3aad00f98 = L.marker(
+                [-0.789275, 113.921327],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_36319ce21db7447c27395c9c3c978c8b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_2e27a64f335e87372c479df3aad00f98.setIcon(icon_36319ce21db7447c27395c9c3c978c8b);
+        
+    
+        var popup_8857fe3acd164a6a2d83869d87941b83 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_09312bbf9b5c530ab2d0636cc65c1736 = $(`<div id="html_09312bbf9b5c530ab2d0636cc65c1736" style="width: 100.0%; height: 100.0%;">Jess No Limit from Indonesia</div>`)[0];
+                popup_8857fe3acd164a6a2d83869d87941b83.setContent(html_09312bbf9b5c530ab2d0636cc65c1736);
+            
+        
+
+        marker_2e27a64f335e87372c479df3aad00f98.bindPopup(popup_8857fe3acd164a6a2d83869d87941b83)
+        ;
+
+        
+    
+    
+            var marker_5e61c7c21f1b4880c7807cb54ae890dd = L.marker(
+                [-0.789275, 113.921327],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_8c5f0860194b7a6d6d8042c2674e5fad = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eJess No Limit\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_5e61c7c21f1b4880c7807cb54ae890dd.setIcon(div_icon_8c5f0860194b7a6d6d8042c2674e5fad);
+        
+    
+            var marker_31881f5dee48bd29b3c050691cabf619 = L.marker(
+                [23.634501, -102.552784],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_1998fd53d5192f319603f228c6a9d335 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_31881f5dee48bd29b3c050691cabf619.setIcon(icon_1998fd53d5192f319603f228c6a9d335);
+        
+    
+        var popup_efa8139a6efaebe647163fda5f5be5ed = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_662e4906005cb6cade7e22b6555fa665 = $(`<div id="html_662e4906005cb6cade7e22b6555fa665" style="width: 100.0%; height: 100.0%;">Kimberly Loaiza from Mexico</div>`)[0];
+                popup_efa8139a6efaebe647163fda5f5be5ed.setContent(html_662e4906005cb6cade7e22b6555fa665);
+            
+        
+
+        marker_31881f5dee48bd29b3c050691cabf619.bindPopup(popup_efa8139a6efaebe647163fda5f5be5ed)
+        ;
+
+        
+    
+    
+            var marker_c1838dce1f67818d82932c6bd748c332 = L.marker(
+                [23.634501, -102.552784],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_18ba8d753d662a5477df1ece283488c4 = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eKimberly Loaiza\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_c1838dce1f67818d82932c6bd748c332.setIcon(div_icon_18ba8d753d662a5477df1ece283488c4);
+        
+    
+            var marker_5744ac8869b615d6dd1ce039e0b87853 = L.marker(
+                [61.52401, 105.318756],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_6b8ad4205b14c830909342fc22888bde = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_5744ac8869b615d6dd1ce039e0b87853.setIcon(icon_6b8ad4205b14c830909342fc22888bde);
+        
+    
+        var popup_1596acdc0a67110800ca1546f9d4b2ba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9fb4cac579cef0ac55f9d68a6b41b5af = $(`<div id="html_9fb4cac579cef0ac55f9d68a6b41b5af" style="width: 100.0%; height: 100.0%;">Like Nastya from Russia</div>`)[0];
+                popup_1596acdc0a67110800ca1546f9d4b2ba.setContent(html_9fb4cac579cef0ac55f9d68a6b41b5af);
+            
+        
+
+        marker_5744ac8869b615d6dd1ce039e0b87853.bindPopup(popup_1596acdc0a67110800ca1546f9d4b2ba)
+        ;
+
+        
+    
+    
+            var marker_fd404296d5994adc3a218f125fd2d370 = L.marker(
+                [61.52401, 105.318756],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_db0b8e47ae0f1ae095591a43a094d747 = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eLike Nastya\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_fd404296d5994adc3a218f125fd2d370.setIcon(div_icon_db0b8e47ae0f1ae095591a43a094d747);
+        
+    
+            var marker_540b2e6c9f5e623e3cd1c83d0671d939 = L.marker(
+                [35.907757, 127.766922],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_84d84b3a2ba1347120f14f4da1c0c6ad = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_540b2e6c9f5e623e3cd1c83d0671d939.setIcon(icon_84d84b3a2ba1347120f14f4da1c0c6ad);
+        
+    
+        var popup_420b0d865a4387a9ebecd705508546c1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aadde7cc6293442189eb8b23a1c95700 = $(`<div id="html_aadde7cc6293442189eb8b23a1c95700" style="width: 100.0%; height: 100.0%;">BLACKPINK from South Korea</div>`)[0];
+                popup_420b0d865a4387a9ebecd705508546c1.setContent(html_aadde7cc6293442189eb8b23a1c95700);
+            
+        
+
+        marker_540b2e6c9f5e623e3cd1c83d0671d939.bindPopup(popup_420b0d865a4387a9ebecd705508546c1)
+        ;
+
+        
+    
+    
+            var marker_2d2ccb84c576e3949ca8f3b91d232d0a = L.marker(
+                [35.907757, 127.766922],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_fe5fe732374886199b37f3bdf81513f4 = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eBLACKPINK\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_2d2ccb84c576e3949ca8f3b91d232d0a.setIcon(div_icon_fe5fe732374886199b37f3bdf81513f4);
+        
+    
+            var marker_0c101be6ed8124decda2b30cb15c0cd1 = L.marker(
+                [40.463667, -3.74922],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_402a0482722b12a91f3310a8cb3eb090 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0c101be6ed8124decda2b30cb15c0cd1.setIcon(icon_402a0482722b12a91f3310a8cb3eb090);
+        
+    
+        var popup_5ba36cb496f5ac16cd7b54b3299a0518 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e96cacdc4ffcd30e6c7a8cc61f569964 = $(`<div id="html_e96cacdc4ffcd30e6c7a8cc61f569964" style="width: 100.0%; height: 100.0%;">Mikecrack from Spain</div>`)[0];
+                popup_5ba36cb496f5ac16cd7b54b3299a0518.setContent(html_e96cacdc4ffcd30e6c7a8cc61f569964);
+            
+        
+
+        marker_0c101be6ed8124decda2b30cb15c0cd1.bindPopup(popup_5ba36cb496f5ac16cd7b54b3299a0518)
+        ;
+
+        
+    
+    
+            var marker_16bd13692fbb7951dae80d41f12b2256 = L.marker(
+                [40.463667, -3.74922],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_287c1b31ab2b332016fd1a862890fa7d = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eMikecrack\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_16bd13692fbb7951dae80d41f12b2256.setIcon(div_icon_287c1b31ab2b332016fd1a862890fa7d);
+        
+    
+            var marker_4dd9b64ee24cee993db25e175ad55951 = L.marker(
+                [15.870032, 100.992541],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_485a85748ef9ddf47d08e5786664b695 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4dd9b64ee24cee993db25e175ad55951.setIcon(icon_485a85748ef9ddf47d08e5786664b695);
+        
+    
+        var popup_e03a41b63b7bacb9f2a6915fed13a866 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cbf244212a6bb9f4cb658fe72165d471 = $(`<div id="html_cbf244212a6bb9f4cb658fe72165d471" style="width: 100.0%; height: 100.0%;">WorkpointOfficial from Thailand</div>`)[0];
+                popup_e03a41b63b7bacb9f2a6915fed13a866.setContent(html_cbf244212a6bb9f4cb658fe72165d471);
+            
+        
+
+        marker_4dd9b64ee24cee993db25e175ad55951.bindPopup(popup_e03a41b63b7bacb9f2a6915fed13a866)
+        ;
+
+        
+    
+    
+            var marker_0944274508e1d87b2d5893d571673aa4 = L.marker(
+                [15.870032, 100.992541],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_c655f30b8567de725197419e75935371 = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eWorkpointOfficial\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_0944274508e1d87b2d5893d571673aa4.setIcon(div_icon_c655f30b8567de725197419e75935371);
+        
+    
+            var marker_04dc10704099917309994a941ad5d825 = L.marker(
+                [55.378051, -3.435973],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_4ef407b04a8276e722fc70738b3a5821 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_04dc10704099917309994a941ad5d825.setIcon(icon_4ef407b04a8276e722fc70738b3a5821);
+        
+    
+        var popup_6585824560b688c181b753ddcb65ffde = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b049e5b6c74701b525f0566ec394516c = $(`<div id="html_b049e5b6c74701b525f0566ec394516c" style="width: 100.0%; height: 100.0%;">5-Minute Crafts from United Kingdom</div>`)[0];
+                popup_6585824560b688c181b753ddcb65ffde.setContent(html_b049e5b6c74701b525f0566ec394516c);
+            
+        
+
+        marker_04dc10704099917309994a941ad5d825.bindPopup(popup_6585824560b688c181b753ddcb65ffde)
+        ;
+
+        
+    
+    
+            var marker_8ccb89d3ce948f5838c805ca4b9a2b4d = L.marker(
+                [55.378051, -3.435973],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_c45939ddede9862b491e95e13bdc290f = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003e5-Minute Crafts\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_8ccb89d3ce948f5838c805ca4b9a2b4d.setIcon(div_icon_c45939ddede9862b491e95e13bdc290f);
+        
+    
+            var marker_88c7e93444fef8213f451a5aacc4b7d4 = L.marker(
+                [37.09024, -95.712891],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var icon_5f5e16379668ead027bc2d290923a4e2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_88c7e93444fef8213f451a5aacc4b7d4.setIcon(icon_5f5e16379668ead027bc2d290923a4e2);
+        
+    
+        var popup_aefed9465a04f268a70547f9cf92f42a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3f29fdd5bf469e65e19511cd4d00cbfe = $(`<div id="html_3f29fdd5bf469e65e19511cd4d00cbfe" style="width: 100.0%; height: 100.0%;">YouTube Movies from United States</div>`)[0];
+                popup_aefed9465a04f268a70547f9cf92f42a.setContent(html_3f29fdd5bf469e65e19511cd4d00cbfe);
+            
+        
+
+        marker_88c7e93444fef8213f451a5aacc4b7d4.bindPopup(popup_aefed9465a04f268a70547f9cf92f42a)
+        ;
+
+        
+    
+    
+            var marker_5a35b28506ee2d26c140a0c298a67d36 = L.marker(
+                [37.09024, -95.712891],
+                {}
+            ).addTo(map_8e8a41c8e61991fd32ccfa90098b0bf0);
+        
+    
+            var div_icon_390a2d04a95ab99cf998196e1ad095eb = L.divIcon({"className": "empty", "html": "\u003cdiv style=\"font-size: 10pt\"\u003eYouTube Movies\u003c/div\u003e", "iconAnchor": [0, 0], "iconSize": [150, 36]});
+            marker_5a35b28506ee2d26c140a0c298a67d36.setIcon(div_icon_390a2d04a95ab99cf998196e1ad095eb);
+        
+</script>
+</html>
