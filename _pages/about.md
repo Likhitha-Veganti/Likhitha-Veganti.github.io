@@ -10,7 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my Portfolio!
+🚀 Welcome aboard my Data Science journey! 📊
 
-I'm Likhitha Veganti, a dedicated Data Science enthusiast currently pursuing my MS in Data Science at Seattle University. Anticipated to graduate in Summer 2024, I have a passion for turning raw data into actionable insights. As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Representative for the College of Science and Engineering, I've actively contributed to the academic community.
-I invite you to explore my projects and connect with me for exciting collaborations in the world of data science! Let's turn data into actionable insights together! 📊🚀 #DataScience #MachineLearning #DataAnalysis
+Hey there, I'm Likhitha Veganti, a passionate MS in Data Science candidate at Seattle University set to graduate in Summer 2024. I'm not just crunching numbers; I'm transforming raw data into actionable insights!
+
+🏆 As a Dean's Honor Roll recipient and Teaching Assistant, I thrive on academic excellence. Currently donning the hat of Graduate Student Representative for the College of Science and Engineering, I'm actively shaping our academic community.
+
+💡 Ready for exciting collaborations in the data science realm? Explore my projects, and let's turn data into insights together! Connect with me, and let the journey begin! 🚀📊 #DataScienceMagic #InsightsInAction #FutureDataWizard
