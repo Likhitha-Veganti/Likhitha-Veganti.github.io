@@ -35,7 +35,15 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
     - Conducted Research on Data Augmentation for Retinal Image Segmentation using U-Net Architecture, Convolutional Networks for Biomedical Image Segmentation.
 
 ## EXPERIENCE
-**Data Science Intern - Brane Services Private Limited** (2021 – 2022)
+
+**Data Scientist Intern - Chelan County PUD** (Present)
+- Currently immersed in an ongoing academic capstone project with Chelan County PUD, delving into "Modeling Complex Hydrodynamics in WA Reservoirs."
+- Focused on crafting a sophisticated model to depict the hydraulic dynamics of Rocky Reach and Rock Island Reservoirs, aiming to optimize dam control protocols.
+- Addressing the primary goal of deciphering inflow patterns at Rocky Reach and Rock Island forebays, correlating with flow and water surface elevation data.
+- Concurrently, tackling a secondary objective by formulating a predictive model for operational forecasting, leveraging external data sources like weather and electricity demand.
+- Responsibilities encompass diverse tasks including coding, model development, in-depth data analysis, and close collaboration with PUD staff.
+
+**Data Scientist Intern - Brane Services Private Limited** (2021 – 2022)
   - Part of developing a solution called ‘NslHub’, a platform to create business applications without writing code. Spearheaded automation solutions to streamline processes, enhancing operational efficiency.
   - Leveraged Machine learning techniques to create personalized user experiences, recommending relevant features and functionalities based on user preferences resulting in 30% improvement of user satisfaction ratings.
   - Communicated the value of machine learning technology to non-technical stakeholders, leading to adoption of machine learning solutions and contributing to a 15% increase in overall process efficiency.
