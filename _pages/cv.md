@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-- Email: likhithaveganti21@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/likhitha-veganti/)
 - [GitHub](https://github.com/Likhitha-Veganti)
 
@@ -16,8 +15,8 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 ## EDUCATION
 **MS in Data Science** (Anticipated Summer 2024)  
   - *Seattle University*
-  - CGPA: 3.97/4 (3x Dean’s Honor List)
-  - Relevant Coursework: Programming for Data Science (Python), Statistical Machine Learning, Database Management Systems, Big Data Analytics, Data Visualization, Numerical Methods for Machine Learning, Web Analytics, AI for Business, Web Analytics.
+  - CGPA: 3.97/4 (4 x Dean’s Honor List)
+  - Relevant Coursework: Programming for Data Science (Python), Statistical Machine Learning, Database Management Systems, Big Data Analytics (Hadoop, MapReduce, Spark), Data Visualization, Numerical Methods for Machine Learning, Web Analytics, AI for Business, Web Analytics.
   - Noteworthy Achievements:
     - Dean's Honor Roll recipient
     - Teaching Assistant for Applied Statistical Inference and Experimental Design.
@@ -37,35 +36,22 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 ## EXPERIENCE
 
 **Data Scientist Intern - Chelan County PUD** (Present)
-- Currently immersed in an ongoing academic capstone project with Chelan County PUD, delving into "Modeling Complex Hydrodynamics in WA Reservoirs."
-- Focused on crafting a sophisticated model to depict the hydraulic dynamics of Rocky Reach and Rock Island Reservoirs, aiming to optimize dam control protocols.
-- Addressing the primary goal of deciphering inflow patterns at Rocky Reach and Rock Island forebays, correlating with flow and water surface elevation data.
-- Concurrently, tackling a secondary objective by formulating a predictive model for operational forecasting, leveraging external data sources like weather and electricity demand.
-- Responsibilities encompass diverse tasks including coding, model development, in-depth data analysis, and close collaboration with PUD staff.
+- Engaged in a capstone project to improve the predictive models for Rocky Reach and Rock Island dams.
+- Tasked with improving the predictive models for dam water levels to optimize operations and respond to electricity demand and weather changes.
+- Analyzed over 2.6 million data points across multiple years; conducted feature engineering, standardization, PCA for dimensionality reduction, and Time Series Analysis.
+- Developed models that significantly outperformed traditional inflow calculations, achieving an R-squared value of 0.9959 with a 20-component PCA for Rocky Reach and 0.9974 for Rock Island Dam.
+- Responsibilities include leading the team, extensive coding, model development, data analysis, and collaborating with the PUD staff.- Engaged in a capstone project to improve the predictive models for Rocky Reach and Rock Island dams.
 
 **Data Scientist Intern - Brane Services Private Limited** (2021 – 2022)
-  - Part of developing a solution called ‘NslHub’, a platform to create business applications without writing code. Spearheaded automation solutions to streamline processes, enhancing operational efficiency.
-  - Leveraged Machine learning techniques to create personalized user experiences, recommending relevant features and functionalities based on user preferences resulting in 30% improvement of user satisfaction ratings.
-  - Communicated the value of machine learning technology to non-technical stakeholders, leading to adoption of machine learning solutions and contributing to a 15% increase in overall process efficiency.
+- Spearheaded the transformation of the NslHub platform by developing and integrating automated data pipelines and advanced machine learning solutions, leading to major improvements in data management and processing efficiency.
+- Collaborated effectively with diverse teams to ensure smooth and seamless project delivery, enhancing the overall platform functionality.
+- Designed and implemented machine learning models to personalize user experiences, resulting in a 30% increase in user satisfaction.
+- Showcased the project's impact through detailed visualizations and cost savings reports, emphasizing the significant benefits and value added.
+- Addressed and resolved key data processing inefficiencies, achieving a more streamlined and effective analysis process, and boosting user engagement metrics.
 
 **Machine Learning Intern - Indian Servers Private Limited** (2021 – 2021)
-  - Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making.
-  - Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
-
-
-## TECHNICAL EXPERTISE:
-**Programming:** 
-  - Python, SQL, R, Java, C, C++
-    
-**Tools:**
-  - Visual Studio, R Studio, Spyder, Git, SQL Workbench (MySQL), Amazon Web Services (AWS), AWS Sage MakerAWS, Hadoop, Spark, Tableau, Power BI.
-    
-**Technologies:**
-  - Object Oriented Programming, Procedural Programming, Exploratory Data Analysis, Data Collection and Management, Data Visualization, Data Cleaning, Data Interpretation, Data Engineering, Data Analysis, Relational DataBase Management System, MySQL, Machine Learning, Neural Networks, Deep Learning, Big Data Analytics, Product Mangement, Software Engineering, Computer Networks.
-
-**Python Libraries:**
-  - NumPy, pandas, matplotlib, scikit-learn, pytorch, seaborn, tensorflow, keras, altair, folium
-
+- Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making.
+- Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.- Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making. - Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
 
 ## Portfolio
 I invite you to explore my projects and connect with me for exciting collaborations in the world of data science! Let's turn data into actionable insights together! 📊🚀 #DataScience #MachineLearning #DataAnalysis
