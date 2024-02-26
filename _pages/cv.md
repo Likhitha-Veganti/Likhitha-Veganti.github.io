@@ -14,7 +14,7 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 
 ## EDUCATION
 **MS in Data Science** (Anticipated Summer 2024)  
-  - *Seattle University*
+*Seattle University | Seattle, WA, USA*
   - CGPA: 3.97/4 (4 x Dean’s Honor List)
   - Relevant Coursework: Programming for Data Science (Python), Statistical Machine Learning, Database Management Systems, Big Data Analytics (Hadoop, MapReduce, Spark), Data Visualization, Numerical Methods for Machine Learning, Web Analytics, AI for Business, Web Analytics.
   - Noteworthy Achievements:
@@ -25,7 +25,7 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
     - Graduate Representative for Open Education Task Force.
 
 **B.Tech - Computer Science and Engineering** (2018 - 2022)
-  - *Jawaharlal Nehru Technological University Hyderabad*
+*Jawaharlal Nehru Technological University Hyderabad | Hyderabad, Telangana, India*
   - Relevant Coursework: Programming Languages, Data Structures & Algorithms, Software Engineering, Algorithm Design, Machine Learning, Cloud Computing.
   - Noteworthy Achievements:
     - CSI Member.
@@ -35,21 +35,24 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 
 ## EXPERIENCE
 
-**Data Scientist Intern - Chelan County PUD** (Present)
+**Data Scientist Intern
+*Chelan County PUD | WA, USA** (present)
 - Engaged in a capstone project to improve the predictive models for Rocky Reach and Rock Island dams.
 - Tasked with improving the predictive models for dam water levels to optimize operations and respond to electricity demand and weather changes.
 - Analyzed over 2.6 million data points across multiple years; conducted feature engineering, standardization, PCA for dimensionality reduction, and Time Series Analysis.
 - Developed models that significantly outperformed traditional inflow calculations, achieving an R-squared value of 0.9959 with a 20-component PCA for Rocky Reach and 0.9974 for Rock Island Dam.
 - Responsibilities include leading the team, extensive coding, model development, data analysis, and collaborating with the PUD staff.- Engaged in a capstone project to improve the predictive models for Rocky Reach and Rock Island dams.
 
-**Data Scientist Intern - Brane Services Private Limited** (2021 – 2022)
+**Data Scientist Intern**
+*Brane Services Private Limited | Hyderabad, Telangana, India* (2021 – 2022)
 - Spearheaded the transformation of the NslHub platform by developing and integrating automated data pipelines and advanced machine learning solutions, leading to major improvements in data management and processing efficiency.
 - Collaborated effectively with diverse teams to ensure smooth and seamless project delivery, enhancing the overall platform functionality.
 - Designed and implemented machine learning models to personalize user experiences, resulting in a 30% increase in user satisfaction.
 - Showcased the project's impact through detailed visualizations and cost savings reports, emphasizing the significant benefits and value added.
 - Addressed and resolved key data processing inefficiencies, achieving a more streamlined and effective analysis process, and boosting user engagement metrics.
 
-**Machine Learning Intern - Indian Servers Private Limited** (2021 – 2021)
+**Machine Learning Intern**
+*Indian Servers Private Limited | India** (2021 – 2021)
 - Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making.
 - Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
 
