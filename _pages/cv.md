@@ -51,7 +51,7 @@ As a Dean's Honor Roll recipient, Teaching Assistant, and Graduate Student Repre
 
 **Machine Learning Intern - Indian Servers Private Limited** (2021 – 2021)
 - Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making.
-- Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.- Played a pivotal role in a data analysis project, performing comprehensive exploratory data analysis, data cleaning, and data set structuring to generate actionable insights crucial for well-informed decision-making. - Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
+- Achieved an impressive 92.29% test accuracy in identifying music genres from musical audio clips, leveraging neural networks using Keras Sequential model.
 
 ## Portfolio
 I invite you to explore my projects and connect with me for exciting collaborations in the world of data science! Let's turn data into actionable insights together! 📊🚀 #DataScience #MachineLearning #DataAnalysis
